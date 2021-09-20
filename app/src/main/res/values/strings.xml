@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthdayGreet</string>
+
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="click_on_it">Create Birthday Card</string>
+    <string name="many_many_happy_returns_of_the_day">Many Many Happy Returns of the Day !!</string>
+    <string name="textview">TextView</string>
+</resources>
